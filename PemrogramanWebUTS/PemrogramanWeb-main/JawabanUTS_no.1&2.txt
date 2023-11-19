@@ -1,0 +1,23 @@
+﻿Nama	: Muhammad Zainal Ikhlas 
+NIM	: 22416255201082
+Kelas	: IF22G
+
+UTS Pemrograman Web
+1. Apa yang dimaksud dengan framework pada pengembangan aplikasi?
+Jawaban :
+Framework adalah fondasi atau kerangka kerja yang biasanya sering digunakan untuk mengembangkan sistem dan aplikasi agar si developer tidak harus memulai proyeknya dari nol dalam pembuatannya. Framework biasanya bersifat open source karena dikembangkan oleh programmer berpengalaman dan biasanya dioptimalkan secara rutin. Framework dapat menggabungkan berbagai resources seperti file gambar dan dokumen referensi menjadi satu “wadah”. Nah, Lalu wadah itu bisa dimodifikasi agar sesuai dengan persyaratan proyek tertentu.
+
+2. a. Sebutkan tema proyek yang sedang digarap !
+Jawaban : 
+Tema Laboratorium, yaitu Jadwal Kalibrasi dan Perawatan berkala laboratorium Maintenance tools di PT Penjalindo Nusantara
+
+b. Sebutkan anggota dari proyek yang sedang digarap, berikut dengan jobdesk dari masing-masing anggota!
+Jawaban : 
+- Leo Muhammad Sofyan (22416255201035) sebagai pembuat database/basis data
+- Muhammad Zainal Ikhlas (22416255201082) sebagai pembuat codingan web
+- Akmal Muzzhaffar Alfi (22416255201282) sebagai pembuat desain dan analisis objek 
+
+c. Jelaskan permasalahan yang didapat setelah hasil wawancara dengan client, beserta hipotesa solusi yang kalian usung !
+Jawaban :
+Permasalahan yang ada di Laboratorium Tools Maintenance yang ada di PT Penjalindo Nusantara yaitu penggunaan alat laboratorium untuk keperluan dalam bekerja setiap harinya, karyawan kurang peduli pada alatnya. Terkadang ada yang memakainya asal asalan seperti vernier caliper terkena kotoran berupa tinta,  shore meter yang diletakkan di bawah lantai, lux meter yang ditaruh di sembarang tempat ketika sedang dipakai, dan lain lain. Sehingga umur alat lab ada beberapa yang kurang tahan lama. Hal ini dikarenakan kurangnya kepedulian dan tidak ada yang bertugas untuk melakukan preventive tools laboratorium khususnya pada bagian divisi maintenance. Selain itu, ada beberapa tools lab yang masa kalibrasinya sudah expired terlalu lama. Maka dari itu, kami tim mahasiswa mengusulkan untuk membuat jadwal kalibrasi tools lab dan jadwal preventive tools lab di divisi maintenance agar penggunaanya sesuai dengan standar pada umumnya. Jadwal ini bisa di akses melalui internet di dalam website yang kami rancang ke depannya. Semoga dengan dibuatkannya website ini, laboratorium tools di maintenance menjadi lebih terawat dan lebih awet.
+
